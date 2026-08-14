@@ -1,15 +1,7 @@
 <p align="center">
   <img src="./github-banner.png" alt="Sai Prabath Reddy Kasarla - Software Engineer" width="100%" />
 </p>
-# Hi, I'm Sai Prabath Reddy Kasarla 👋
 
-### Software Engineer | Software Development | Test Automation | Quality Engineering
-
-I am a **Software Engineer** passionate about building reliable, scalable, maintainable, and user-focused software.
-
-My experience spans **software development, test automation, application testing, databases, performance optimisation, and production support**.
-
-> **Build • Test • Optimise • Deliver**
 
 ---
 
