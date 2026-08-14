@@ -135,26 +135,34 @@ Software testing fundamentals, test design techniques, test management, defect m
 
 ## 🎯 Engineering Interests
 
+- Software Engineering
 - Full-Stack Development
-- Backend & APIs
-- Database Design
-- Test Automation
-- Quality Engineering
-- Performance Optimisation
-- Cloud Technologies
-- DevOps & Deployment
+- Backend Systems & REST APIs
+- Database Design & Optimisation
+- Test Automation & Quality Engineering
+- Performance & Scalability
+- Cloud Engineering
+- DevOps & CI/CD
+- AI-Powered Applications
+- AI Integration & Automation
+- Generative AI & Large Language Models (LLMs)
 
 ---
 
 ## 🌱 Currently Exploring
 
+- Artificial Intelligence & Generative AI
+- Large Language Models (LLMs)
+- Building AI-Powered Applications
+- AI APIs & Application Integration
+- AI Agents & Workflow Automation
+- Retrieval-Augmented Generation (RAG)
 - Advanced Software Architecture
 - Scalable Web Applications
 - Cloud Engineering
-- CI/CD
+- CI/CD & DevOps
 - Performance Engineering
 - Advanced Test Automation
-- Software Quality Engineering
 
 ---
 
