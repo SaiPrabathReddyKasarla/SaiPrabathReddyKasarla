@@ -51,39 +51,47 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,cs,python,html,css" />
 </p>
 
-### Frontend
+### ⚛️ Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,redis" />
 </p>
 
-**Also:** Prisma ORM • REST APIs • SQL
+**Prisma ORM • REST APIs • SQL**
 
-### Testing & Automation
+### 🧪 Testing & Automation
 
 <p>
   <img src="https://skillicons.dev/icons?i=selenium,postman" />
 </p>
 
-**Playwright • Selenium • Appium • WinAppDriver • BrowserStack • Postman • E2E Testing • API Testing**
+**Playwright • Selenium • Appium • WinAppDriver • BrowserStack • Postman**
 
-### Cloud, DevOps & Tools
+`E2E Testing` • `UI Testing` • `API Testing` • `Mobile Testing` • `Desktop Testing`
+
+### ☁️ Cloud, DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,vercel" />
 </p>
+
+### 🤖 AI & Emerging Technologies
+
+**Generative AI • LLMs • AI APIs • AI-Powered Applications • AI Agents • RAG • Workflow Automation**
+
+Currently exploring the integration of AI capabilities into modern software applications.
 
 ---
 
@@ -104,34 +112,39 @@
 
 ### ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
 
-Foundational knowledge of cloud concepts, Azure services, Azure architecture, security, governance and management.
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+
+**Microsoft** • Cloud Fundamentals • Azure Services • Security • Governance
+
+---
 
 ### 🧪 ISTQB Certified Tester - Foundation Level
 
-Software testing fundamentals, test design techniques, test management, defect management and testing throughout the software development lifecycle.
+[![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester_Foundation_Level-6A5ACD?style=for-the-badge)](#)
+
+**ISTQB** • Software Testing • Test Design • Test Management • Quality Assurance
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiPrabathReddyKasarla&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPrabathReddyKasarla&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiPrabathReddyKasarla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPrabathReddyKasarla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiPrabathReddyKasarla&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🟩 Contribution Activity
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiPrabathReddyKasarla&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiPrabathReddyKasarla&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
+
 
 ## 🎯 Engineering Interests
 
