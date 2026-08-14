@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Sai Prabath Reddy Kasarla - Software Engineer" width="100%" />
+</p>
 # Hi, I'm Sai Prabath Reddy Kasarla 👋
 
 ### Software Engineer | Software Development | Test Automation | Quality Engineering
